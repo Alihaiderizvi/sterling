@@ -50,8 +50,7 @@
               <a class="nav-link hvr-underline-from-left" href="#ExtraInfo-div">Our Brands</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link hvr-underline-from-right" href="#ContactForm-div" id="Signin">Sign In</a>
-              <a class="nav-link hvr-underline-from-right" href="#ExtraInfo-div" id="SigninName"><?php echo $_SESSION['username']; ?></a>
+              <a class="nav-link hvr-underline-from-right" href="#ContactForm-div" id="Signin">Sign In</a> 
             </li>
           </ul>
           <!-- </form> -->
@@ -77,7 +76,7 @@
             <div class="row">
               <div class="carousel-caption">
               <div class="col-md-12">
-                <h3 class="text-uppercase text-left">Hey <?php echo $_SESSION['username']; ?> </h3>
+                <h3 class="text-uppercase text-left"></h3>
             <h4 class="text-uppercase text-left animated bounceInLeft">The Best <span>Gift Shop</span></h4>
             <h1 class="text-left">Creating Hapiness For <br> Your Loved Ones</h1>
             <p class="text-left">Browse thorugh some of the largest collection of gifts to birghten your day </p>

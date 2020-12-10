@@ -1,19 +1,19 @@
-     document.getElementById("SigninName").style.display = "none";
-     document.getElementById("Signin").addEventListener('click', ()=> {
-        // const ref = document.querySelector('#Signin');  
+    //  document.getElementById("SigninName").style.display = "none";
+    //  document.getElementById("Signin").addEventListener('click', ()=> {
+    //     // const ref = document.querySelector('#Signin');  
 
-        // ref.innerHTML = 'Sign OUT';
-        document.getElementById("SigninName").style.display = "block";
-        document.getElementById("Signin").style.display = "none";
-     });
+    //     // ref.innerHTML = 'Sign OUT';
+    //     document.getElementById("SigninName").style.display = "block";
+    //     document.getElementById("Signin").style.display = "none";
+    //  });
 
-     document.getElementById("SigninName").addEventListener('click', ()=> {
-        // const ref = document.querySelector('#Signin');  
+    //  document.getElementById("SigninName").addEventListener('click', ()=> {
+    //     // const ref = document.querySelector('#Signin');  
 
-        // ref.innerHTML = 'Sign OUT';
-        document.getElementById("SigninName").style.display = "none";
-        document.getElementById("Signin").style.display = "block";
-     });
+    //     // ref.innerHTML = 'Sign OUT';
+    //     document.getElementById("SigninName").style.display = "none";
+    //     document.getElementById("Signin").style.display = "block";
+    //  });
      
     // NAVBAR Scroll
 
@@ -22,6 +22,7 @@
            $('navscroll').toggleClass('scrolled',$(this).scrollTop()>754);
            
        });
+       
     // Scroll Top Script 
 
         // Get Button  
