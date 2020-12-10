@@ -1,0 +1,31 @@
+form .or-container {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: #ccc;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 25px 0;
+}
+
+form .line-separator {
+    background-color: #ccc;
+    -webkit-box-flex: 5;
+    -ms-flex-positive: 5;
+    flex-grow: 5;
+    height: 1px;
+}
+
+form .or-label {
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    margin: 0 15px;
+    text-align: center;
+}
+
+form {
+    justify-content: center;
+    align-items: center;
+}
