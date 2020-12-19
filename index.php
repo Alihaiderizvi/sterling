@@ -29,7 +29,7 @@
     <!-- registration form link  -->
 
     <!-- Navbar Start -->
-     
+    
       <header >
         <nav class="navbar navbar-expand-lg  fixed-top bgcolor">
         <div class="container " > 
@@ -300,8 +300,8 @@
           <div class="text-center">
           <button type="submit" name="submit" class="btn btn-default text-center">Create Account</button> 
         </div>
-        <p class="text-center">already have an Account? <a href="reg.php">Login</a></p>
-  </div>
+        <p class="text-center">Don't have an account? <br> <a href="reg.php">Signup</a> for free. </p>
+  </div> 
   </form>
   </div>   
 <!-- FORM Ends  -->
